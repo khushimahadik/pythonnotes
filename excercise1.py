@@ -1,0 +1,15 @@
+print("i will now count my chickens:")
+print("Hens" , 45,67/6)
+print("roosters" , 45* 8 - 5 % 30)
+print("now  i will count the eggs:")
+print(3-45 % 6 + 3 / 67)
+print("is it true that 4 -6 < 5/8?")
+print(4 -6 < 5/8)
+print('what is4- 6 ' , 4 -6)
+print("what is 5/8 ", 5/8)
+print("oh ! that is why it  is true")
+print("how  about some more")
+print("is it greater?", 5 > 8)
+print("is it greater or equal?", 5 >=10)
+
+#basics 
